@@ -1,1 +1,0 @@
-Terceira Versão do Código otimizado com requisição de banco de dados.
