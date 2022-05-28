@@ -1,1 +1,1 @@
-Terceira Versão do Código otimizado com requisição de banco de dados
+Terceira Versão do Código otimizado com requisição de banco de dados.
